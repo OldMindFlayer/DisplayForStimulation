@@ -1,8 +1,12 @@
 # DisplayForStimulation
  
-req:\n
-pip install opencv-python\n
-pip install numpy\n
-\n
-start from folder:\n
+req:
+
+pip install opencv-python
+
+pip install numpy
+
+
+start from folder:
+
 python display_for_stimulation.py
